@@ -8,7 +8,7 @@ Hægt er að sjá vefsíðuna á eftirfarandi hlekk: https://vef-v10.netlify.app
 
 ## Um verkefnið og tólin
 
-Þetta verkefni var unnið með Create React App og TailwindCSS. Þetta er í fyrsta skiptið sem ég prófa bæði tólin.
+Þetta verkefni var unnið með Create React App og TailwindCSS. Þetta var í fyrsta skiptið sem ég prófaði bæði tólin.
 
 ## Web API
 
